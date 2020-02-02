@@ -1,38 +1,34 @@
 ## Welcome to GitHub Pages
 ## Reham Omar 
+## summary 
+### markdown on github
 
-You can use the [editor on GitHub](https://github.com/Reham-Omar/my-first-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.as we increase the number of # the size of the text increase  
 
-### Markdown
+2.to list new  or modified files use 'git status'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3.I can use the (editor on GitHub) to preview the content for my website in Markdown files.
 
-```markdown
-Syntax highlighted code block
+4.to creat inline link wrapping the  link text in brackets then wrapping the link in ()
 
-# Header 1
-## Header 2
-### Header 3
+5.to bold the text use ** at the beginning and the end of text ; for example ** this is my repo **
 
-- Bulleted
-- List
+6. if u want all of the text is Bold and nested italic	use triple stars *** at the beginning and at the end like ***All this text is important***	
 
-1. Numbered
-2. List
+7.in order to make unorderd list use - but if u want it orderd  precede each line with a number
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## getting started 
+ 1. to start yr page add a special name to generate your website.
+2. in setting page use change theme 
+3.  when you’re finished editing, scroll down to the bottom of the page and click Commit changes.
+4. go to code tab if u want to make changes 
+5. at the end click Commit changes and your updates will go live 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Reham-Omar/my-first-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
