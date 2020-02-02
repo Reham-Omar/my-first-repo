@@ -24,6 +24,17 @@ to do link do as this [yr word](the link of the page)
 
 [facebook](https://www.facebook.com/)
 
+# Emphasis
+
+*italic*
+_italic_
+
+** bold**
+__bold__
+
+_You **can** combine them_
+
+
 
 
  
