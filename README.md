@@ -4,7 +4,10 @@
 ### markdown on github
 
 
-1. as we increase the number of # the size of the text increase  
+1. as we increase the number of # the size of the text increase
+# r
+## r
+### r
 
 2. to list new  or modified files use '''git status  r  y'''
 
