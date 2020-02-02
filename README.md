@@ -6,7 +6,7 @@
 
 1. as we increase the number of # the size of the text increase  
 
-2. to list new  or modified files use 'git status'
+2. to list new  or modified files use '''git status'''
 
 3. I can use the (editor on GitHub) to preview the content for my website in Markdown files.
 
