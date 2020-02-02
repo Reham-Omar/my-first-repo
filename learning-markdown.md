@@ -19,6 +19,8 @@ mohammad | al-sobh
  to wrapped  any word with two tildes (like ~~this~~)so it  will appear crossed out.
  
 # Links
+to do link do as this [yr word](the link of the page)
+
 
 [facebook](https://www.facebook.com/)
 
