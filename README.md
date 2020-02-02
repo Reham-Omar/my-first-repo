@@ -14,12 +14,22 @@
 3. I can use the (editor on GitHub) to preview the content for my website in Markdown files.
 
 4. to creat inline link wrapping the  link text in brackets then wrapping the link in ()
+[yahoo](https://login.yahoo.com/)
 
 5. to bold the text use ** at the beginning and the end of text ; for example **this is my repo**
 
 6. if u want all of the text is Bold and nested italic	use triple stars *** at the beginning and at the end like ***All this text is important***	
 
-7. in order to make unorderd list use - but if u want it orderd  precede each line with a number
+7. in order to make unorderd list use dash
+
+- r
+- e
+- h 
+
+but if u want it orderd  precede each line with a number
+1. r
+2. e
+3. h
 
 
 ## getting started 
